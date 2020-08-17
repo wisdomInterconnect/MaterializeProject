@@ -1,0 +1,48 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+nav .logo {
+  margin-left: 50px;
+}
+
+.slider .btn {
+  margin-top: 20px;
+  padding: 0 50px;
+  border-radius: 1%;
+  background: white;
+  color: blue;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+.section-contact {
+  margin-top: 100px;
+}
+
+.right hide-on-med-and-down li:hover {
+  background: rgb(102, 57, 206);
+  color: rgb(225, 224, 230);
+}
+
+#cen {}
+
+hr {
+  width: 250px;
+  color: black;
+  border-bottom: solid black 2px;
+}
